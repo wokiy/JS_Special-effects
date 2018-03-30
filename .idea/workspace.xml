@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da190b59-951a-42f3-8ee7-1fdd28a4be64" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Special effects.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/amin.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/offserParent.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/offsetLeft.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/offsetLeftandstyle.let.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/amni.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/left.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/offsetLeft.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/offsetParent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/amnimation.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/amin.html" afterPath="$PROJECT_DIR$/html/amin.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -27,23 +18,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="amin.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/html/amin.html">
+      <file leaf-file-name="amnimation.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/html/amnimation.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="162">
+              <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="amni.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/amni.js">
+      <file leaf-file-name="fenzhuan.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/fenzhuan.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+            <state relative-caret-position="324">
+              <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -68,8 +57,10 @@
         <option value="$PROJECT_DIR$/html/offserParent.html" />
         <option value="$PROJECT_DIR$/js/left.js" />
         <option value="$PROJECT_DIR$/html/offsetLeftandstyle.let.html" />
-        <option value="$PROJECT_DIR$/html/amin.html" />
         <option value="$PROJECT_DIR$/js/amni.js" />
+        <option value="$PROJECT_DIR$/html/amin.html" />
+        <option value="$PROJECT_DIR$/html/amnimation.html" />
+        <option value="$PROJECT_DIR$/js/fenzhuan.js" />
       </list>
     </option>
   </component>
@@ -80,9 +71,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1046" />
+    <option name="x" value="1040" />
+    <option name="y" value="5" />
     <option name="width" value="902" />
-    <option name="height" value="1047" />
+    <option name="height" value="1043" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -105,6 +97,16 @@
             <path>
               <item name="Special effects" type="b2602c69:ProjectViewProjectNode" />
               <item name="Special effects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Special effects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Special effects" type="462c0819:PsiDirectoryNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Special effects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Special effects" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -144,15 +146,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1522381260078</updated>
-      <workItem from="1522381261660" duration="3051000" />
+      <workItem from="1522381261660" duration="4779000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3051000" />
+    <option name="totallyTimeSpent" value="4779000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1046" y="0" width="902" height="1047" extended-state="0" />
+    <frame x="1040" y="5" width="902" height="1043" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2488426" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
@@ -231,11 +233,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/html/amin.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        <state relative-caret-position="297">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/fenzhuan.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/amnimation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+          <folding />
         </state>
       </provider>
     </entry>
